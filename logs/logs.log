@@ -1,0 +1,94 @@
+[INFO ] 2024-05-20 13:34:28.169 [main] Lumauser - opened the browser
+[INFO ] 2024-05-20 13:34:31.001 [main] Lumauser - open the site
+[INFO ] 2024-05-20 13:37:52.060 [main] Lumauser - opened the browser
+[INFO ] 2024-05-20 13:37:54.870 [main] Lumauser - open the site
+[INFO ] 2024-05-20 13:43:35.732 [main] Lumauser - opened the browser
+[INFO ] 2024-05-20 13:43:38.677 [main] Lumauser - open the site
+[INFO ] 2024-05-27 18:57:45.394 [main] Register_page - opened the browser
+[INFO ] 2024-05-27 18:57:53.381 [main] Register_page - open the site
+[INFO ] 2024-05-27 18:57:55.841 [main] Register_page - account was created
+[INFO ] 2024-05-27 18:57:58.159 [main] Register_page - account wasn't created
+[INFO ] 2024-05-29 23:10:49.540 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:10:52.688 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:10:57.844 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:18:57.902 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:19:12.011 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:19:18.282 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:24:34.154 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:24:36.958 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:24:41.007 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:27:52.709 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:27:55.420 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:28:00.446 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:32:59.826 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:33:02.583 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:33:07.199 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:34:18.959 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:34:21.718 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:34:26.223 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:38:21.544 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:38:24.685 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:38:25.293 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:38:27.443 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:38:29.725 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:38:31.580 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:41:06.662 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:41:09.380 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:41:14.460 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:45:25.195 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:45:27.943 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:45:31.977 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:48:25.260 [main] Login_page - opened the browser
+[INFO ] 2024-05-29 23:48:28.689 [main] Login_page - open the site
+[INFO ] 2024-05-29 23:49:35.379 [main] Login_page - opened the browser
+[INFO ] 2024-05-29 23:49:41.097 [main] Login_page - open the site
+[INFO ] 2024-05-29 23:53:24.937 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:53:31.521 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:53:32.658 [main] Login_page - opened the browser
+[INFO ] 2024-05-29 23:53:37.291 [main] Login_page - open the site
+[INFO ] 2024-05-29 23:53:38.523 [main] Register_page - opened the browser
+[INFO ] 2024-05-29 23:53:45.559 [main] Register_page - open the site
+[INFO ] 2024-05-29 23:53:56.874 [main] Register_page - account creation failed
+[INFO ] 2024-05-29 23:54:07.516 [main] Register_page - Please enter a valid email address (Ex: johndoe@domain.com).
+[INFO ] 2024-05-29 23:54:08.857 [main] Register_page - Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored.
+[INFO ] 2024-05-29 23:54:10.559 [main] Register_page - Please enter the same value again.
+[INFO ] 2024-05-29 23:54:15.936 [main] Home_page - What's New
+[INFO ] 2024-05-29 23:58:13.994 [main] Home_page - opened the browser
+[INFO ] 2024-05-29 23:58:17.695 [main] Home_page - open the site
+[INFO ] 2024-05-29 23:58:19.073 [main] Login_page - opened the browser
+[INFO ] 2024-05-29 23:58:22.003 [main] Login_page - open the site
+[INFO ] 2024-05-29 23:58:23.450 [main] Register_page - opened the browser
+[INFO ] 2024-05-29 23:58:27.800 [main] Register_page - open the site
+[INFO ] 2024-05-29 23:58:36.610 [main] Register_page - account creation failed
+[INFO ] 2024-05-29 23:58:44.063 [main] Register_page - Please enter a valid email address (Ex: johndoe@domain.com).
+[INFO ] 2024-05-29 23:58:46.047 [main] Register_page - Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored.
+[INFO ] 2024-05-29 23:58:47.754 [main] Register_page - Please enter the same value again.
+[INFO ] 2024-05-29 23:59:04.605 [main] Home_page - What's New
+[INFO ] 2024-05-30 00:01:05.353 [main] Login_page - opened the browser
+[INFO ] 2024-05-30 00:01:08.293 [main] Login_page - open the site
+[INFO ] 2024-05-30 00:01:42.234 [main] Login_page - opened the browser
+[INFO ] 2024-05-30 00:01:45.224 [main] Login_page - open the site
+[INFO ] 2024-05-30 22:48:25.998 [main] Home_page - opened the browser
+[INFO ] 2024-05-30 22:48:30.104 [main] Home_page - open the site
+[INFO ] 2024-05-30 22:48:35.369 [main] Home_page - What's New
+[INFO ] 2024-05-30 23:04:09.229 [main] Home_page - opened the browser
+[INFO ] 2024-05-30 23:04:12.194 [main] Home_page - open the site
+[INFO ] 2024-05-30 23:04:17.113 [main] Home_page - What's New
+[INFO ] 2024-05-30 23:16:55.070 [main] Home_page - opened the browser
+[INFO ] 2024-05-30 23:16:58.581 [main] Home_page - open the site
+[INFO ] 2024-05-30 23:17:05.007 [main] Home_page - What's New
+[INFO ] 2024-05-30 23:25:35.288 [main] Home_page - opened the browser
+[INFO ] 2024-05-30 23:25:38.958 [main] Home_page - open the site
+[INFO ] 2024-05-30 23:25:45.049 [main] Home_page - What's New
+[INFO ] 2024-05-30 23:28:55.159 [main] Home_page - opened the browser
+[INFO ] 2024-05-30 23:28:58.749 [main] Home_page - open the site
+[INFO ] 2024-05-30 23:29:08.367 [main] Home_page - What's New
+[INFO ] 2024-05-30 23:55:27.649 [main] Home_page - opened the browser
+[INFO ] 2024-05-30 23:55:30.658 [main] Home_page - open the site
+[INFO ] 2024-05-30 23:55:37.591 [main] Home_page - What's New
+[INFO ] 2024-05-31 00:00:14.851 [main] Home_page - opened the browser
+[INFO ] 2024-05-31 00:00:27.595 [main] Home_page - open the site
+[INFO ] 2024-05-31 00:00:35.503 [main] Home_page - What's New
+[INFO ] 2024-05-31 00:03:23.284 [main] Home_page - opened the browser
+[INFO ] 2024-05-31 00:03:27.429 [main] Home_page - open the site
+[INFO ] 2024-05-31 00:03:32.842 [main] Home_page - What's New

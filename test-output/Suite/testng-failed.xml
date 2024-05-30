@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Project.Login_page">
+        <methods>
+          <include name="openbrowser"/>
+          <include name="close"/>
+          <include name="login_with_valid_and_invalidcridentials" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Project.Login_page -->
+      <class name="Project.Register_page">
+        <methods>
+          <include name="register_with_empty_inputs"/>
+          <include name="openbrowser"/>
+          <include name="close"/>
+          <include name="register_with_valid_inputs"/>
+        </methods>
+      </class> <!-- Project.Register_page -->
+      <class name="Project.Home_page">
+        <methods>
+          <include name="openbrowser"/>
+          <include name="homepage_sale"/>
+          <include name="homepage_myproductreview"/>
+          <include name="homepage_addressbook"/>
+          <include name="close"/>
+          <include name="homepage_men"/>
+          <include name="homepage_storedpaymentmethods"/>
+          <include name="homepage_mydownloadableproducts"/>
+          <include name="homepage_signout"/>
+          <include name="homepage_yogabanner"/>
+          <include name="homepage_gear"/>
+          <include name="homepage_search"/>
+          <include name="homepage_women"/>
+          <include name="homepage_myaccount"/>
+          <include name="homepage_support"/>
+          <include name="homepage_Mywishlist"/>
+          <include name="homepage_logobutton"/>
+          <include name="homepage_accountinformation"/>
+          <include name="homepage_training"/>
+          <include name="homepage_myorders"/>
+        </methods>
+      </class> <!-- Project.Home_page -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
